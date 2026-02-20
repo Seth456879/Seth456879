@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Seth456879/Seth456879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div class="tenor-gif-embed" data-postid="21287014" data-share-method="host" data-aspect-ratio="1.01587" data-width="100%"><a href="https://tenor.com/view/gretchen-policial-policia-kaiaghost-gif-21287014">Gretchen Policial Sticker</a>from <a href="https://tenor.com/search/gretchen-stickers">Gretchen Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
