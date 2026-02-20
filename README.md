@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<div class="tenor-gif-embed" data-postid="21287014" data-share-method="host" data-aspect-ratio="1.01587" data-width="100%"><a href="https://tenor.com/view/gretchen-policial-policia-kaiaghost-gif-21287014">Gretchen Policial Sticker</a>from <a href="https://tenor.com/search/gretchen-stickers">Gretchen Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![gretchen-policial](https://github.com/user-attachments/assets/c85bd201-c6fd-4b83-a392-a65a6ba31996)
+
